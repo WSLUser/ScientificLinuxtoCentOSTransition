@@ -1,7 +1,5 @@
-sudo su [enter password]
+START
 cd /
-yum install wget vim -y #you can use some other editor such as nano if you prefer
-vim http://upgrade.sh 
 mkdir TMP
 cd TMP
 wget http://mirror.centos.org/centos/7.7.1908/os/x86_64/Packages/centos-release-7-7.1908.0.el7.centos.x86_64.rpm
@@ -19,10 +17,4 @@ cd /etc
 etckeeper commit
 yum clean all
 yum upgrade
-
-ESC
-wq!
-bash http://upgrade.sh
-Exit terminal and relaunch
-yum install lsb
-lsb_release -a *proves you're running CentOS*
+END
