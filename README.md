@@ -1,4 +1,4 @@
-# ScientificLinuxtoCentOSTransition
+# Scientific Linux to CentOS 7 Migration
 Script to transition from Scientific Linux 7 to CentOS 7
 
 To run this migration script, you must be logged in as root. Use of sudo is recommended.
