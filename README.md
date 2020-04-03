@@ -19,3 +19,5 @@ Afterwards, install lsb, screenfetch, or simply run uname -a to prove you're now
 Note: If you're running WSL and using this script, be sure to relaunch your terminal after running the script. 
 
 I recommend using [Windows Terminal](https://github.com/microsoft/terminal).
+
+Credits: This is an updated version of what's covered in https://wiki.centos.org/HowTos/MigrationGuide. Feel free to give them a PR with this script. All I ask is I get credit for updating the migration steps.
