@@ -23,3 +23,7 @@ I recommend using [Windows Terminal](https://github.com/microsoft/terminal).
 **Credits**: This is an updated version of what's covered in https://wiki.centos.org/HowTos/MigrationGuide. Feel free to give them a PR with this script. All I ask is I get credit for updating the migration steps. 
 
 **License**: According to https://wiki.centos.org/HowTos/MigrationGuide license, use of GPLv2 or later (at user discretion) is required. As a result, I chose to cover this migration script with GPLv3. See the License file for more details.
+
+**Contributing**: If you'd like to contribute to this script, feel free to send a PR. 
+I will not be testing if migration to CentOS 8 is possible. 
+If you wish to update the migration script to upgrade to CentOS 8, please be sure it is tested on various platforms (cloud, VM, bare metal) before publicly disseminating.
