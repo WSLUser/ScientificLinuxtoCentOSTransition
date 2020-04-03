@@ -1,4 +1,5 @@
-START
+#!/bin/bash
+
 cd /
 mkdir TMP
 cd TMP
@@ -16,5 +17,4 @@ rm -f /etc/yum.repos.d/sl.repo /etc/yum.repos.d/sl-other.repo
 cd /etc
 etckeeper commit
 yum clean all
-yum upgrade
-END
+yum upgrade -y
