@@ -14,7 +14,7 @@ Use ESC then wq! if using vi/vim to save the changes.
 Either make the script executible with `chmod +x scilitocent7.sh` then do `./scilitocent7.sh` 
 or run it with `bash scilitocent7.sh`
 
-Afterwards, install lsb, screenfetch, or simply run uname -a to prove you're now on CentOS 7.
+Afterwards, install lsb, screenfetch, or simply run `uname -a` to prove you're now on CentOS 7.
 
 **Note**: If you're running WSL and using this script, be sure to relaunch your terminal after running the script. 
 
